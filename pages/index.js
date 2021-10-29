@@ -1,11 +1,7 @@
 
-import Head from 'next/head'
-import Link from 'next/link'
 
-
-
-export default function Home() {
-
-      return <p>Home</p>
-
+function WelcomePage() {
+      return <h1> Willkommen zu meiner Umfrage</h1>
 }
+
+export default WelcomePage;

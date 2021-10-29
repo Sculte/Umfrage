@@ -1,10 +1,7 @@
 
-//import Head from '../../next/head'
-//import Link from '../../next/link'
 
-
-export default function Home() {
-
-      return <p>Home</p>
-
+function DetailPage() {
+      return <h1> Hier findest du weitere Details</h1>
 }
+
+export default DetailPage;
